@@ -43,7 +43,7 @@ class blum:
 
     def banner(self) -> None:
         """BLUM AUTOMATION SCRIPT"""
-        self.log("Join Telegram Channel:(https://t.me/D4rkCipherX)", Fore.CYAN)
+        self.log("Join Telegram Channel", Fore.CYAN)
 
     def log(self, message, color=Fore.RESET):
         safe_message = message.encode("utf-8", "backslashreplace").decode("utf-8")
