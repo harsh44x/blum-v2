@@ -1,12 +1,12 @@
 9{
     "game": true,
-    "daily": false,
-    "task": false,
+    "daily": true,
+    "task": true,
     "farming": true,
     "low_point": 290,
-    "high_point": 450,
+    "high_point": 420,
     "thread": 1,
     "proxy": false,
-    "delay_account_switch": 10,
+    "delay_account_switch": 1,
     "delay_loop": 300
 }
